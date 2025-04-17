@@ -129,7 +129,7 @@ var (
   "mixtral-8x22b-instruct-v0.1",
   "mixtral-8x7b-instruct-v0.1",
   "pixtral-12b-2409",
-  "ministral-8b-2410"
+  "ministral-8b-2410",
 
 	}
 )
